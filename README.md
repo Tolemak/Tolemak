@@ -23,4 +23,7 @@ Feel free to reach out to me through [email/LinkedIn/other]. I'm always open to 
 
 ## Get in Touch
 
+[Github](https://github.com/Tolemak)
 [LinkedIn](https://www.linkedin.com/in/kamil-ga%C5%82kowski-544a781aa/)
+[Porfolio](https://tolemak.github.io/portfolio)
+
