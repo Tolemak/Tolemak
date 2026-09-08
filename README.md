@@ -1,5 +1,7 @@
 # Hello, I'm Kamil! 👋
 
+[Wersja polska](README.pl.md)
+
 I'm a Fullstack Developer with a passion for building robust web applications and integrating APIs. With expertise in PHP, Symfony, JavaScript, Bootstrap, Python, and SQL, I enjoy bringing creative solutions to complex problems and delivering high-quality software solutions.
 
 ## About Me
@@ -19,11 +21,10 @@ Aside from coding, I'm passionate about exploring the potential of blockchain te
 
 ## Let's Connect
 
-Feel free to reach out to me through [email/LinkedIn/other]. I'm always open to collaboration and new opportunities!
+I'm always open to collaboration and new opportunities — feel free to reach out through any of the links below!
 
 ## Get in Touch
 
 [Github](https://github.com/Tolemak)
 [LinkedIn](https://www.linkedin.com/in/kamil-ga%C5%82kowski-544a781aa/)
-[Porfolio](https://kamil-galkowski.pl)
-
+[Portfolio](https://kamil-galkowski.pl)
