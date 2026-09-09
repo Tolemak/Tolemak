@@ -2,25 +2,27 @@
 
 [Wersja polska](README.pl.md)
 
-I'm a Fullstack Developer with a passion for building robust web applications and integrating APIs. With expertise in PHP, Symfony, JavaScript, Bootstrap, Python, and SQL, I enjoy bringing creative solutions to complex problems and delivering high-quality software solutions.
+I'm a backend developer working mainly in PHP and Symfony. I design and maintain APIs, domain logic, and integrations with external systems — and I run the deployment path for everything I ship, from the Dockerfile through CI/CD to the reverse proxy and TLS on the server. When a project needs a frontend, I build that too.
 
 ## About Me
 
-I have a few years of professional experience in web development, including e-commerce platform integrations for [Shoper](https://www.shoper.pl/) (dreamcommerce), plus a range of personal projects spanning backend APIs, frontend apps, and infrastructure. My strengths lie in backend architecture, testing discipline, and API integrations — I also handle the frontend design and the deployment/CI pipeline for everything I ship.
+Commercial web development since 2020, including e-commerce platform integrations for [Shoper](https://www.shoper.pl/) (dreamcommerce), currently working as a backend developer. My strengths are backend architecture, testing discipline, and API integrations. Every project below runs on infrastructure I administer myself.
 
 ## Featured Projects
 
-- **[LectureBackend](https://github.com/Tolemak/LectureBackend_BackendDemo)** — Symfony REST API for managing lectures & student enrollment. Layered architecture (domain / persistence / API), >88% test coverage, OpenAPI spec.
-- **[FileActions](https://github.com/Tolemak/FileActions_BackendDemo)** — Symfony backend for batch file processing (resize/convert/compress), Dockerized, with a PHPUnit test suite. [Live demo](https://file-actions.tolemak.pl/)
-- **[Portfolio](https://github.com/Tolemak/portfolio-react)** — this profile's portfolio site: React/TypeScript/Vite, bilingual (PL/EN), light/dark themes, CI/CD to a self-hosted VPS. [Live site](https://kamil-galkowski.pl)
-- **[Mathema](https://github.com/Tolemak/mathema)** — interactive math-practice app with a real backend (Node/Express + SQLite) powering a shared leaderboard. [Live demo](https://mathema.tolemak.pl/)
+- **[CryptoPulse](https://github.com/Tolemak/CryptoPulse_BackendDemo)** — Symfony 8 API aggregating crypto prices from Binance, Kraken, and Coinbase. Redis as the primary store rather than just a cache, threshold alerts delivered by webhook, rate limiting per exchange and per client, lock-guarded polling. [Live demo](https://crypto-pulse.tolemak.pl/)
+- **[LectureBackend](https://github.com/Tolemak/LectureBackend_BackendDemo)** — Symfony REST API for managing lectures and student enrollment. Layered architecture (domain / persistence / API), >88% test coverage, OpenAPI spec.
+- **[FileActions](https://github.com/Tolemak/FileActions_BackendDemo)** — Symfony backend for batch file processing (resize, convert, compress) built on Imagick. Dockerized, with a PHPUnit test suite. [Live demo](https://file-actions.tolemak.pl/)
+- **[Mathema](https://github.com/Tolemak/mathema)** — interactive math-practice app with a Node/Express + SQLite backend powering a shared leaderboard. [Live demo](https://mathema.tolemak.pl/)
+- **[Portfolio](https://github.com/Tolemak/portfolio-react)** — this profile's portfolio site: React, TypeScript, Vite, bilingual (PL/EN), CI/CD to a self-hosted VPS. [Live site](https://kamil-galkowski.pl)
 
 ## Technologies I Work With
 
-- **Programming Languages:** PHP, JavaScript/TypeScript, Python
-- **Frameworks:** Symfony, React, Node.js/Express, Bootstrap
-- **Databases:** SQL (MySQL, PostgreSQL, SAP SQL Anywhere), MongoDB, SQLite
-- **Tools & Technologies:** Docker, Git, CI/CD, RESTful APIs, JSON, AJAX
+- **Backend:** PHP, Symfony, Node.js/Express, Python
+- **Databases & storage:** MySQL, PostgreSQL, SAP SQL Anywhere, MongoDB, SQLite, Redis
+- **Testing:** PHPUnit, Vitest
+- **Infrastructure:** Docker, GitHub Actions, Linux VPS — Apache, reverse proxy, SSL, scheduled jobs
+- **Frontend:** JavaScript/TypeScript, React, Vite
 
 ## My Interests
 
