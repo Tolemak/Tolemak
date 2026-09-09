@@ -24,11 +24,7 @@ Mam kilka lat komercyjnego doświadczenia w tworzeniu aplikacji webowych, w tym 
 
 ## Moje zainteresowania
 
-Poza kodowaniem interesuję się potencjałem technologii blockchain. Fascynuje mnie zdecentralizowana natura blockchaina i śledzę na bieżąco nowości w tej dziedzinie.
-
-## Skontaktuj się ze mną
-
-Jestem zawsze otwarty na współpracę i nowe możliwości — śmiało napisz przez którykolwiek z poniższych linków!
+Poza kodowaniem interesuję się technologią blockchain — jej zdecentralizowaną naturą i kierunkiem rozwoju tej dziedziny.
 
 ## Kontakt
 

@@ -24,11 +24,7 @@ I have a few years of professional experience in web development, including e-co
 
 ## My Interests
 
-Aside from coding, I'm passionate about exploring the potential of blockchain technology. I find the decentralized nature of blockchain fascinating and enjoy staying updated on the latest developments in the field.
-
-## Let's Connect
-
-I'm always open to collaboration and new opportunities — feel free to reach out through any of the links below!
+Outside of coding, I follow blockchain technology — its decentralized design, and where the field is heading.
 
 ## Get in Touch
 
