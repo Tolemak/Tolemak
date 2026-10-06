@@ -9,8 +9,9 @@ Backend developer (PHP / Symfony), building web apps commercially since 2020. Mo
 - [CryptoPulse](https://github.com/Tolemak/CryptoPulse_BackendDemo): Symfony + Redis API aggregating crypto prices from Binance, Kraken and Coinbase, with webhook alerts. [demo](https://crypto-pulse.tolemak.pl/)
 - [FileActions](https://github.com/Tolemak/FileActions_BackendDemo): image processing (resize, convert, compress) on Imagick behind a small Symfony API. [demo](https://file-actions.tolemak.pl/)
 - [LectureBackend](https://github.com/Tolemak/LectureBackend_BackendDemo): Symfony + MongoDB REST API for lectures and enrollments, JWT, OpenAPI.
+- [Faultline](https://github.com/Tolemak/faultline): self-hosted error tracker speaking the Sentry protocol, so apps keep the official SDKs. Symfony 8, PostgreSQL, Messenger. [demo](https://faultline-demo.tolemak.pl/demo)
 - [Mathema](https://github.com/Tolemak/mathema): math practice in React with an Express + SQLite leaderboard. [demo](https://mathema.tolemak.pl/)
-- [portfolio-react](https://github.com/Tolemak/portfolio-react): my site. [kamil-galkowski.pl](https://kamil-galkowski.pl)
+- Portfolio: my site, React + Three.js. [kamil-galkowski.pl](https://kamil-galkowski.pl)
 
 **Stack:** PHP, Symfony, Doctrine, Twig, PHPUnit · TypeScript, React, Node.js, Vite · Python · SQL, MongoDB, Redis · Docker, GitHub Actions, Linux
 
