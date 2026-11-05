@@ -2,7 +2,7 @@
 
 Backend developer (PHP / Symfony), komercyjnie robię aplikacje webowe od 2020 roku. Głównie API, logika biznesowa i integracje, do tego wdrożenia: Docker, CI i własny VPS. Frontend w React/TypeScript, kiedy projekt go potrzebuje.
 
-[English version](https://github.com/Tolemak)
+[English version](https://github.com/Tolemak/Tolemak/blob/main/README.md)
 
 **Projekty**
 
